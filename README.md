@@ -1,3 +1,6 @@
+[![Deploy static content to Pages](https://github.com/belokopytova/menu-task/actions/workflows/web.yml/badge.svg)](https://github.com/belokopytova/menu-task/actions/workflows/web.yml)
+
+
 Навигационное меню
 ===
 
